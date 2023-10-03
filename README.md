@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="right">👋 Hello There</h1>
+<!-- <blockquote align="right"><h3>General Kenobi.</h3></blockquote> -->
+
+I'm Michelangelo, and I'm currently a Computer Science Postdoctoral Researcher at Reykjavik University, working on real-world applications of virtual reality and the development of intelligent virtual characters.
+
+🎓 My PhD involved creating the **Agora Framework**. Think of Agora as a sandbox where human behaviors get broken down into heatmaps. The cooler part? Virtual agents in the simulation use these maps to decide where to go, getting attracted or repelled by areas. It's all about blending different behaviors and seeing how close we can get to real-life reactions. Click [[here](https://www.bit.ly/mdiamanti_phd_dissertation)] to know more.
+
+🎮 My passion? Video games. They nudged me into experimenting with everything from Game Maker to Unity 3D and Unreal Engine. This experience not only sharpened my skills in virtual environments, virtual agents, and game development, but also opened doors to the captivating world of Artificial Intelligence, Machine Learning and Crowd Simulation.
+
+
+
 
 <!--
 **MichelangeloDiamanti/MichelangeloDiamanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
