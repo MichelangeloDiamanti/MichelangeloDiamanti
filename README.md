@@ -1,26 +1,11 @@
-<h1 align="right">👋 Hello There</h1>
+<h1 align="right">👋 Hello there</h1>
 <!-- <blockquote align="right"><h3>General Kenobi.</h3></blockquote> -->
 
-I'm Michelangelo, and I'm currently a Computer Science Postdoctoral Researcher at Reykjavik University, working on real-world applications of virtual reality and the development of intelligent virtual characters.
+I'm Michelangelo, a **software engineer with a PhD in Computer Science**. My work spans **games, real-time simulation, applied AI, and data-intensive software systems**.
 
-🎓 My PhD involved creating the **Agora Framework**. Think of Agora as a sandbox where human behaviors get broken down into heatmaps. The cooler part? Virtual agents in the simulation use these maps to decide where to go, getting attracted or repelled by areas. It's all about blending different behaviors and seeing how close we can get to real-life reactions. Click [[here](https://www.bit.ly/mdiamanti_phd_dissertation)] to know more.
+I'm particularly interested in interactive systems, virtual agents, visual programming, performance, and making complex technology easier to understand and use.
 
-🎮 My passion? Video games. They nudged me into experimenting with everything from Game Maker to Unity 3D and Unreal Engine. This experience not only sharpened my skills in virtual environments, virtual agents, and game development, but also opened doors to the captivating world of Artificial Intelligence, Machine Learning and Crowd Simulation.
+You can find my projects, professional experience, and résumé on my website.
 
+[Portfolio](https://www.michelangelodiamanti.com/) · [Résumé](https://www.michelangelodiamanti.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/mdiamanti/)
 
-
-
-<!--
-**MichelangeloDiamanti/MichelangeloDiamanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
